@@ -1,0 +1,5 @@
+localhost
+9999
+Asia	0	Dzień dobry	aaaa	bbbb	Do widzenia
+Adam	0	Dzień dobry	aaaa	bbbb	Do widzenia
+Sara	0	Dzień dobry	aaaa	bbbb	Do widzenia
